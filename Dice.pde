@@ -26,7 +26,7 @@ void draw()
      fill(0,0,0);
      textSize(24);
      text("Sum of Dice: "+ sum,250,460);
-     text("Previous Score: "+oldsum,250,480);
+     text("Previous Roll: "+oldsum,250,480);
      
   }
 void mousePressed()
