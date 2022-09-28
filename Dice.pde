@@ -1,4 +1,3 @@
-
 int sum = 0;
 int count = 0;
 int oldsum = 0;
@@ -66,7 +65,6 @@ void mousePressed()
           }else{
             count = 6;
           }
-          System.out.println(count);
       }
       void show()
       {   noStroke();
